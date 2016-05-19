@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">通訊錄</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_search">Search</string>
+    <string name="text_name">名字：</string>
+    <string name="text_phone">電話：</string>
+    <string name="text_delete">確定要刪除嗎?</string>
+    <string name="text_ok">確定</string>
+    <string name="text_cancel">取消</string>
+</resources>
